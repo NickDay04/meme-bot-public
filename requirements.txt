@@ -1,0 +1,4 @@
+tweepy
+pymongo
+apscheduler
+dnspython
